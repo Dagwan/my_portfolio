@@ -37,7 +37,7 @@ I am currently pursuing:
 To run this project locally:
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/dagwanpan/my-portfolio.git
+   git clone https://github.com/Dagwan/my_portfolio.git
 
 ## 🌟 Purpose
 This portfolio reflects my journey as a developer, highlighting my technical expertise and professional experiences. It serves as a platform to connect with potential collaborators, employers, and fellow tech enthusiasts.
